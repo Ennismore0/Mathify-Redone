@@ -133,4 +133,5 @@ echo MR Version: 1.1
 echo Mode: Release
 echo RAM: Unlimited
 pause >nul
+cls
 goto home
