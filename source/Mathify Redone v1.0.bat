@@ -1,6 +1,6 @@
 @echo off
 setlocal enabledelayedexpansion
-title Mathify Redone v1
+title Mathify Redone v1.0
 
 cls
 echo Initializing Mathify Core...
