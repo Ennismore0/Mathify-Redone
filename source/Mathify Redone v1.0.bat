@@ -40,13 +40,13 @@ timeout /t 1 >nul
 pause >nul
 
 cls
-echo Welcome to Mathify Redone v1^^!
+echo Welcome to Mathify Redone v1.0^^!
 timeout /t 1 >nul
 echo -------------------------------------
 timeout /t 1 >nul
 echo This is a remake of my old project, "Mathify"!
 timeout /t 2 >nul
-echo Just so you know, Mathify Redone v1 is meant for simple equations, so no large-scale operations^^!
+echo Just so you know, Mathify Redone v1.0 is meant for simple equations, so no large-scale operations^^!
 timeout /t 2 >nul
 echo Please enjoy^^! -Ennismore0
 timeout /t 4 >nul
