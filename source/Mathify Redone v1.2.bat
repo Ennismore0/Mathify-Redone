@@ -89,7 +89,7 @@ if /i "%choice%"=="exit" goto exit
 if /i "%choice%"=="changelog" goto changelog
 
 echo Hey there, That's an invalid choice^^! Please pick a number from 1-4, or type ^"commands^" for more info.
-timeout /t 4 >nul
+pause >nul
 cls
 goto opselect
 
